@@ -1,0 +1,134 @@
+{
+
+	"HTMLFileName":"RadarOverlay.html",
+	"pref__general__AutoKeyframeProperties":"false",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_Rectangle3}\": [], \
+                \"${_RadialFade2}\": [], \
+                \"${_Radial12}\": [], \
+                \"${_Stage}\": [], \
+                \"${_Rectangle}\": [], \
+                \"${_RadialFadeSm}\": [], \
+                \"${_RadarScreen_1a}\": []\
+            }\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"symbol_stage":{
+		"element_${_Radial12}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"false",
+			"invisible":"false"},
+		"dummyStageParentWidth":"700px",
+		"dummyStageParentHeight":"528px",
+		"element_${_RadialFade}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"animationEnabled":"false",
+			"timelineColor":"0x008dc8"},
+		"element_${_Radial1}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"false",
+			"timelineColor":"0x00bda4"},
+		"element_${_RadarScreen_1a}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096",
+			"timelineTreeOpened":"true",
+			"animationEnabled":"false",
+			"invisible":"false"},
+		"element_${_Radial2}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"false",
+			"timelineColor":"0x50bd82"},
+		"element_${_RadialFade2}":{
+			"timelineColor2":"0xd35d6e",
+			"invisible":"false",
+			"timelineColor":"0xfb657a",
+			"animationEnabled":"true",
+			"timelineColor3":"0x7e4b52"},
+		"element_${_Rectangle}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"invisible":"false",
+			"timelineColor":"0x00a9fa"},
+		"element_${_Rectangle2}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79",
+			"animationEnabled":"false",
+			"invisible":"true"},
+		"element_${_RadialFadeSm}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"false",
+			"timelineColor":"0x50bd82"},
+		"element_${_Radial}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"false",
+			"timelineColor":"0x91c767"},
+		"element_${_RadarScreen_1a3}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"animationEnabled":"false",
+			"timelineColor":"0xceaef4"},
+		"defaultStageParentHeight":"528px",
+		"element_${_Group}":{
+			"timelineColor2":"0xba5b89",
+			"invisible":"false",
+			"timelineColor":"0xdb619d",
+			"animationEnabled":"false",
+			"timelineColor3":"0x734a5f"},
+		"element_${_Group2}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"timelineColor":"0xffd46d",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"false"},
+		"defaultStageParentWidth":"700px",
+		"element_${_RadarScreen_1a2}":{
+			"timelineColor2":"0x5a558a",
+			"invisible":"false",
+			"timelineColor":"0x63599f",
+			"animationEnabled":"false",
+			"timelineColor3":"0x4a485e"},
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_Rectangle3}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"true",
+			"timelineColor":"0x91c767"}},
+	"TransitionIdCounter":"13",
+	"CompZoomFactor":"100",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.024315330918114",
+	"pref__general__GenerateSmoothTransitions":"true",
+	"usedBOM":"false",
+	"nextElementColorIndex":"4",
+	"stage-Default Timeline_playhead_ms":"10000",
+	"StageZoomFactor":"75",
+	"stage-Default Timeline_mark_ms":"-1",
+	"colorSwatches":"rgba(0,104,56,1.00)|rgba(0,51,3,1.00)|rgba(192,192,192,1.00)"}
