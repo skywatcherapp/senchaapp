@@ -1,12 +1,16 @@
 SkyWatcher
 ==========
 
-Application to fufill criteria for "Caught A Meteor Tracker".
+Application to fufill criteria for "Caught A Meteor Tracker" for the NASA International Space Apps Challenge 2013.
 
 Instructions
 ============
 
-Run a server and mount the folder GS onto it. Then navigate to GS through a web browser on any mobile device or desktop computer. Works best with Google Chrome and Safari for iphones.
+* Run a apache server with the folder GS mounted onto it. 
+
+* Navigate to GS folder through a web browser on any mobile device or desktop computer. 
+
+Works best with Google Chrome and Safari for iphones.
 
 Created By:
 ===========
